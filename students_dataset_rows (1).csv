@@ -1,0 +1,301 @@
+Student_ID,First_Name,Last_Name,Age,Gender,Department,Year,CGPA,Attendance,Marks,City,Course,Placement,Scholarship,Fee_Paid,Admission_Date
+1215,Rohan,Yadav,24,Female,MBA,1,7.22,77.0,57,Warangal,Java,Placed,No,False,2023-04-02
+1287,Teja,Sharma,21,Female,MBA,4,6.98,92.0,74,Bangalore,SQL,Not Placed,No,False,2022-06-22
+1235,Meera,Patel,20,Male,AI,1,9.04,84.0,79,,Data Science,Not Placed,No,False,2022-02-08
+1065,Aditya,Gupta,19,Male,MBA,2,8.62,51.0,40,Warangal,Python,Not Placed,No,False,2023-03-18
+1225,Aditya,Rao,22,Male,CSE,1,7.24,96.0,88,Bangalore,AI,Not Placed,No,False,2023-07-14
+1158,Varun,Verma,20,Male,CSE,1,9.75,92.0,41,Hyderabad,AI,Placed,Yes,True,2023-12-26
+1009,Varun,Reddy,19,Female,MECH,1,6.82,60.0,93,Hyderabad,Cloud,Not Placed,Yes,True,2024-06-10
+1142,Pooja,Singh,22,Male,EEE,3,,64.0,52,Guntur,Java,Not Placed,No,False,2023-12-20
+1196,Meera,Rao,20,Male,EEE,1,6.62,88.0,71,Hyderabad,Cloud,Not Placed,Yes,True,2024-02-05
+1032,Kiran,Naidu,21,Male,DS,1,5.71,80.0,44,Guntur,AI,Placed,No,False,2023-02-14
+1278,Teja,Singh,25,Male,AI,3,7.51,91.0,66,Hyderabad,Cloud,Not Placed,No,True,2023-01-31
+1265,Vihaan,Singh,18,Male,EEE,2,8.45,79.0,78,Warangal,Python,Placed,No,False,2023-07-28
+1138,Divya,Patel,22,Male,CSE,3,8.06,56.0,77,Visakhapatnam,AI,Not Placed,Yes,False,2022-10-07
+1175,Pooja,Rao,24,Male,CSE,1,6.66,82.0,63,Guntur,Data Science,Not Placed,No,True,2022-12-20
+1244,Sai,Verma,19,Female,EEE,3,9.38,66.0,73,Vijayawada,Java,Placed,Yes,False,2023-11-08
+1008,Akash,Verma,19,Male,AI,2,8.32,100.0,89,Chennai,AI,Not Placed,No,False,2024-09-21
+1029,Meera,Reddy,21,Female,CIVIL,1,9.77,71.0,75,Chennai,Cloud,Not Placed,No,False,2022-12-01
+1253,Kiran,Kumar,20,Male,CSE,2,6.05,95.0,39,Tirupati,Cloud,Not Placed,Yes,True,2023-11-09
+1087,Meera,Verma,25,Female,EEE,2,8.9,57.0,79,Tirupati,Python,Not Placed,No,False,2022-02-16
+1171,Pooja,Rao,24,Female,MBA,3,7.44,91.0,52,Visakhapatnam,Data Science,Placed,No,False,2022-07-01
+1050,Vihaan,Naidu,25,Male,AI,4,7.71,86.0,41,Bangalore,Java,Not Placed,Yes,True,2022-05-02
+1060,Nikhil,Gupta,25,Female,ECE,4,7.98,74.0,59,Bangalore,Python,Not Placed,No,False,2024-08-14
+1007,Divya,Gupta,25,Male,EEE,2,6.61,85.0,68,Tirupati,SQL,Not Placed,No,True,2022-05-22
+1105,Rahul,Singh,24,Male,EEE,2,6.86,53.0,65,Tirupati,Cloud,Not Placed,Yes,True,2024-05-06
+1182,Rahul,Yadav,24,Female,DS,4,8.36,94.0,57,Bangalore,AI,Not Placed,Yes,True,2022-11-19
+1114,Pooja,Yadav,18,Male,MBA,3,7.17,98.0,44,Bangalore,SQL,Not Placed,No,False,2023-10-28
+1178,Kiran,Singh,20,Male,MECH,4,9.81,64.0,86,Bangalore,Java,Not Placed,No,True,2024-01-26
+1204,Vihaan,Verma,23,Female,DS,2,9.69,52.0,88,Vijayawada,Data Science,Placed,No,False,2022-10-05
+1140,Meera,Singh,23,Male,CIVIL,1,6.33,58.0,96,Warangal,Java,Placed,No,False,2022-08-30
+1231,Vihaan,Naidu,25,Female,EEE,2,9.27,86.0,42,Bangalore,Cloud,Placed,Yes,False,2024-04-07
+1222,Pooja,Yadav,19,Female,EEE,3,6.11,60.0,90,Guntur,Cloud,Not Placed,Yes,False,2022-08-17
+1083,Sneha,Gupta,18,Female,EEE,3,5.97,82.0,62,Bangalore,Cloud,Not Placed,Yes,True,2022-12-25
+1019,Aditya,Kumar,24,Male,ECE,1,8.29,76.0,75,Visakhapatnam,Java,Not Placed,Yes,False,2023-02-10
+1187,Vihaan,Yadav,23,Female,DS,3,9.91,68.0,72,Visakhapatnam,SQL,Placed,Yes,False,2024-07-29
+1094,Kavya,Verma,18,Male,MECH,3,5.85,55.0,99,Tirupati,AI,Placed,No,True,2022-11-26
+1061,Akash,Naidu,18,Female,EEE,4,,78.0,96,Warangal,Data Science,Not Placed,No,False,2024-06-09
+1003,Arjun,Rao,19,Male,CIVIL,1,7.12,72.0,68,Hyderabad,Cloud,Not Placed,Yes,False,2022-03-22
+1172,Pooja,Rao,22,Female,ECE,3,7.19,100.0,85,Warangal,Python,Placed,Yes,True,2024-09-02
+1148,Pooja,Kumar,21,Female,MECH,2,6.74,96.0,49,Hyderabad,Cloud,Not Placed,Yes,True,2022-07-31
+1203,Harsha,Patel,23,Male,EEE,1,9.52,93.0,49,Vijayawada,Cloud,Placed,Yes,True,2022-09-08
+1017,Arjun,Gupta,18,Male,CIVIL,1,9.93,66.0,93,Visakhapatnam,AI,Not Placed,Yes,True,2022-10-31
+1161,Pooja,Sharma,23,Female,MBA,2,9.96,64.0,73,Chennai,Cloud,Placed,Yes,False,2023-01-24
+1078,Meera,Singh,19,Male,MBA,4,9.0,82.0,48,Guntur,SQL,Placed,Yes,False,2023-04-15
+1064,Nikhil,Rao,24,Male,MECH,4,9.79,90.0,97,Hyderabad,SQL,Placed,Yes,False,2022-08-21
+1186,Aditya,Verma,19,Male,ECE,3,9.37,89.0,89,Bangalore,SQL,Placed,Yes,True,2024-04-04
+1149,Aditya,Sharma,18,Female,CSE,2,8.83,75.0,91,Vijayawada,SQL,Placed,Yes,True,2023-05-31
+1168,Kavya,Singh,24,Male,CSE,1,,55.0,76,Tirupati,Python,Not Placed,No,False,2024-03-08
+1216,Rahul,Reddy,21,Female,MBA,4,9.47,80.0,42,Chennai,Data Science,Not Placed,Yes,False,2022-07-24
+1259,Rahul,Patel,23,Female,MBA,3,9.45,55.0,82,Warangal,Java,Placed,No,False,2024-09-12
+1101,Kiran,Naidu,25,Male,MECH,4,7.58,68.0,83,Tirupati,Java,Placed,Yes,False,2022-02-23
+1116,Divya,Kumar,19,Male,AI,4,6.28,95.0,91,Chennai,Cloud,Not Placed,No,True,2023-07-18
+1128,Priya,Singh,23,Male,ECE,4,7.75,52.0,39,Bangalore,Cloud,Not Placed,No,False,2022-06-02
+1004,Varun,Naidu,23,Male,AI,1,8.48,99.0,72,Chennai,Java,Placed,No,False,2023-04-10
+1180,Arjun,Verma,19,Female,MBA,3,8.19,89.0,85,Chennai,Data Science,Not Placed,No,True,2024-04-13
+1183,Kavya,Yadav,18,Female,CSE,4,6.11,74.0,99,,AI,Not Placed,No,False,2023-05-16
+1076,Priya,Kumar,20,Male,AI,2,8.14,64.0,77,Bangalore,SQL,Placed,No,True,2022-05-14
+1112,Priya,Naidu,22,Female,CIVIL,2,8.6,72.0,92,Hyderabad,Cloud,Not Placed,No,False,2023-10-17
+1086,Priya,Patel,23,Female,MECH,1,9.48,59.0,55,Hyderabad,Cloud,Placed,No,False,2023-11-09
+1176,Aarav,Verma,19,Female,CIVIL,1,6.02,96.0,53,Warangal,Data Science,Not Placed,No,True,2023-06-18
+1189,Aditya,Sharma,24,Female,MECH,4,9.78,70.0,35,Chennai,Cloud,Not Placed,No,True,2024-03-25
+1258,Kavya,Reddy,19,Male,CSE,3,7.12,93.0,75,Tirupati,Cloud,Placed,Yes,True,2022-01-10
+1207,Varun,Kumar,20,Male,CIVIL,1,6.55,72.0,36,Warangal,Python,Not Placed,No,True,2022-07-30
+1269,Harsha,Verma,20,Male,DS,1,7.24,88.0,76,Tirupati,AI,Placed,No,False,2024-09-13
+1230,Sai,Naidu,24,Female,MBA,3,5.91,84.0,84,Bangalore,Data Science,Not Placed,No,True,2023-04-02
+1013,Aditya,Rao,18,Male,ECE,1,5.82,90.0,42,Vijayawada,Python,Placed,No,True,2023-06-11
+1274,Meera,Rao,18,Male,EEE,2,8.29,99.0,91,Vijayawada,Cloud,Not Placed,Yes,True,2022-10-29
+1058,Arjun,Singh,23,Female,MBA,1,6.42,85.0,51,Visakhapatnam,AI,Not Placed,Yes,True,2024-09-23
+1126,Ananya,Verma,25,Female,CSE,1,7.44,66.0,81,Tirupati,Data Science,Placed,No,True,2023-08-07
+1270,Priya,Naidu,25,Male,DS,4,8.21,97.0,100,Visakhapatnam,Cloud,Not Placed,Yes,True,2022-08-03
+1167,Pooja,Rao,23,Male,AI,1,9.74,78.0,81,Visakhapatnam,Python,Placed,Yes,True,2023-03-18
+1006,Nikhil,Singh,21,Female,CSE,2,9.2,70.0,86,Visakhapatnam,Python,Placed,No,True,2023-11-03
+1045,Nikhil,Yadav,22,Male,ECE,1,6.59,76.0,97,Vijayawada,Cloud,Not Placed,No,False,2024-03-22
+1085,Priya,Rao,18,Male,DS,4,5.81,97.0,38,Chennai,Cloud,Placed,No,False,2023-04-10
+1238,Meera,Yadav,19,Male,MBA,2,9.61,76.0,97,Warangal,Python,Placed,Yes,False,2023-12-28
+1080,Teja,Yadav,23,Female,EEE,4,7.77,77.0,47,Chennai,Cloud,Placed,No,False,2024-06-28
+1262,Akash,Yadav,21,Female,AI,4,8.48,65.0,96,Warangal,Cloud,Not Placed,Yes,True,2022-01-12
+1081,Kiran,Gupta,23,Female,CIVIL,4,8.78,70.0,89,Warangal,Cloud,Not Placed,No,True,2023-12-05
+1240,Arjun,Naidu,23,Female,CIVIL,1,8.57,65.0,82,Guntur,SQL,Not Placed,Yes,False,2023-08-24
+1023,Nikhil,Reddy,18,Female,DS,3,6.23,78.0,89,Hyderabad,Python,Placed,Yes,True,2024-05-04
+1062,Arjun,Kumar,24,Male,CIVIL,1,6.93,80.0,83,Tirupati,Cloud,Placed,No,True,2022-05-10
+1243,Pooja,Rao,25,Female,ECE,4,6.86,83.0,85,Chennai,Python,Not Placed,No,False,2023-12-02
+1071,Divya,Naidu,23,Male,MBA,1,6.13,64.0,85,Warangal,Python,Not Placed,Yes,False,2023-07-04
+1100,Rohan,Yadav,20,Female,CSE,4,7.14,96.0,65,Guntur,SQL,Not Placed,No,True,2023-07-01
+1103,Sneha,Reddy,24,Male,CIVIL,3,6.56,55.0,82,Vijayawada,Python,Not Placed,Yes,False,2024-03-21
+1051,Varun,Gupta,21,Female,MBA,4,6.84,87.0,89,Visakhapatnam,SQL,Placed,Yes,True,2023-10-03
+1257,Aarav,Sharma,19,Female,DS,1,9.01,54.0,47,Visakhapatnam,Cloud,Placed,No,False,2022-09-28
+1079,Aarav,Reddy,25,Female,CIVIL,1,7.71,78.0,44,Chennai,Data Science,Placed,Yes,True,2022-10-09
+1127,Varun,Kumar,23,Female,AI,4,7.77,98.0,70,Chennai,Java,Placed,No,False,2024-03-24
+1284,Varun,Naidu,20,Female,MECH,1,7.99,85.0,53,Chennai,Python,Placed,No,True,2022-11-09
+1283,Ananya,Yadav,19,Female,MBA,4,7.28,92.0,38,,Java,Placed,Yes,False,2024-03-26
+1069,Vihaan,Yadav,25,Female,ECE,3,6.49,62.0,67,Bangalore,Cloud,Placed,Yes,False,2024-03-18
+1146,Aditya,Verma,18,Female,CIVIL,2,8.96,99.0,88,Warangal,AI,Not Placed,No,False,2022-03-24
+1125,Rohan,Verma,25,Female,EEE,4,5.6,75.0,99,Guntur,Java,Placed,No,True,2022-02-21
+1262,Akash,Yadav,21,Female,AI,4,8.48,65.0,96,Warangal,Cloud,Not Placed,Yes,True,2022-01-12
+1198,Harsha,Gupta,23,Male,MBA,1,5.58,54.0,36,Visakhapatnam,Java,Placed,Yes,False,2023-06-03
+1242,Arjun,Naidu,24,Male,CSE,4,9.6,91.0,57,Hyderabad,Java,Not Placed,No,False,2023-03-10
+1246,Varun,Verma,23,Female,DS,2,6.82,80.0,51,Visakhapatnam,Cloud,Placed,No,True,2022-08-16
+1014,Kiran,Naidu,25,Male,DS,4,6.59,80.0,87,Vijayawada,Python,Placed,No,False,2023-03-10
+1258,Kavya,Reddy,19,Male,CSE,3,7.12,93.0,75,Tirupati,Cloud,Placed,Yes,True,2022-01-10
+1118,Harsha,Rao,25,Male,AI,1,6.89,,96,Tirupati,AI,Placed,Yes,False,2023-10-20
+1239,Akash,Gupta,20,Male,DS,2,9.44,62.0,42,Vijayawada,Python,Not Placed,Yes,False,2023-12-23
+1089,Meera,Patel,20,Female,ECE,3,5.82,97.0,40,Tirupati,Python,Not Placed,Yes,False,2023-08-13
+1027,Priya,Naidu,19,Female,MECH,4,,84.0,77,Hyderabad,Python,Not Placed,Yes,False,2022-02-09
+1084,Varun,Rao,19,Female,ECE,4,9.3,99.0,38,Visakhapatnam,Python,Placed,No,False,2024-08-01
+1049,Vihaan,Singh,22,Male,MBA,1,9.43,86.0,71,Guntur,AI,Not Placed,No,True,2024-09-15
+1143,Varun,Verma,21,Male,AI,4,7.88,73.0,44,Chennai,Python,Placed,Yes,True,2022-12-02
+1174,Kavya,Yadav,25,Female,CIVIL,1,9.06,73.0,45,Chennai,Java,Not Placed,Yes,True,2023-07-31
+1016,Nikhil,Verma,21,Male,MBA,1,5.73,84.0,36,Chennai,Java,Placed,No,False,2023-05-08
+1201,Teja,Yadav,18,Female,DS,1,5.56,58.0,36,Bangalore,AI,Not Placed,No,True,2023-01-16
+1074,Sneha,Singh,24,Male,CIVIL,1,9.25,89.0,87,Visakhapatnam,Python,Not Placed,Yes,False,2023-04-01
+1192,Sneha,Naidu,19,Female,DS,1,7.28,69.0,64,Tirupati,Cloud,Placed,Yes,True,2022-08-07
+1102,Divya,Rao,19,Male,EEE,1,8.93,67.0,92,Bangalore,AI,Placed,Yes,False,2024-06-24
+1096,Akash,Yadav,20,Female,MECH,3,7.24,99.0,78,Hyderabad,Cloud,Not Placed,Yes,False,2022-04-07
+1091,Sai,Kumar,24,Female,AI,4,9.42,97.0,78,Vijayawada,Data Science,Placed,Yes,True,2023-06-28
+1144,Akash,Verma,19,Male,MBA,1,9.55,78.0,42,Guntur,Java,Not Placed,No,True,2023-07-27
+1237,Priya,Naidu,22,Female,MBA,1,9.88,,52,Visakhapatnam,Cloud,Not Placed,No,False,2024-01-17
+1213,Varun,Kumar,19,Female,AI,2,6.05,53.0,63,Bangalore,Java,Not Placed,No,True,2023-08-20
+1272,Aarav,Singh,19,Male,CIVIL,2,5.74,53.0,60,Visakhapatnam,Java,Not Placed,No,True,2024-05-09
+1070,Kavya,Reddy,23,Male,AI,3,6.97,76.0,57,Vijayawada,Java,Not Placed,No,True,2022-09-21
+1249,Rohan,Sharma,25,Female,DS,3,8.36,50.0,92,Visakhapatnam,Java,Placed,Yes,False,2024-03-15
+1077,Varun,Naidu,20,Male,CSE,2,5.57,100.0,65,Warangal,Python,Placed,No,True,2022-05-10
+1179,Teja,Kumar,25,Female,CIVIL,1,8.67,63.0,70,Chennai,SQL,Placed,Yes,False,2022-11-30
+1206,Aditya,Singh,25,Male,MECH,2,6.81,100.0,73,Vijayawada,AI,Not Placed,No,True,2024-01-21
+1151,Meera,Singh,25,Male,MECH,4,9.04,70.0,88,Tirupati,Java,Not Placed,No,True,2024-02-12
+1191,Sai,Verma,18,Male,DS,4,7.55,77.0,60,Bangalore,Cloud,Not Placed,Yes,False,2022-04-06
+1227,Rohan,Gupta,20,Male,AI,3,8.17,89.0,96,Hyderabad,AI,Placed,No,True,2022-02-24
+1195,Rohan,Verma,23,Male,DS,4,8.27,78.0,62,Chennai,Python,Placed,Yes,False,2022-12-26
+1223,Harsha,Patel,24,Female,EEE,2,6.3,50.0,85,Hyderabad,Java,Not Placed,Yes,True,2024-08-17
+1066,Rahul,Kumar,24,Male,DS,2,5.86,74.0,65,Guntur,SQL,Placed,Yes,False,2023-10-16
+1209,Aditya,Yadav,19,Male,CIVIL,1,8.16,53.0,90,Bangalore,Java,Not Placed,No,False,2024-08-06
+1109,Kavya,Reddy,22,Male,CSE,2,9.49,70.0,74,Tirupati,SQL,Not Placed,No,True,2024-02-11
+1026,Sai,Gupta,18,Female,ECE,2,9.17,79.0,79,Visakhapatnam,Java,Placed,Yes,True,2023-02-13
+1268,Arjun,Rao,19,Female,CSE,1,8.97,78.0,93,Bangalore,AI,Placed,Yes,False,2024-05-08
+1098,Varun,Gupta,23,Male,AI,4,7.79,51.0,81,,Java,Placed,No,False,2022-07-16
+1205,Aditya,Yadav,23,Male,CSE,2,6.5,83.0,40,Tirupati,Python,Not Placed,No,False,2022-12-02
+1219,Vihaan,Kumar,24,Female,DS,2,6.56,70.0,80,Hyderabad,Cloud,Not Placed,Yes,True,2024-05-06
+1110,Arjun,Naidu,23,Male,MECH,3,6.06,73.0,90,Tirupati,Cloud,Not Placed,No,False,2024-09-24
+1285,Arjun,Rao,21,Female,DS,2,6.33,89.0,67,Vijayawada,Python,Placed,Yes,False,2023-10-23
+1218,Teja,Kumar,18,Female,CSE,4,7.88,99.0,64,Bangalore,Python,Placed,Yes,False,2023-07-01
+1095,Teja,Verma,20,Male,MBA,1,9.15,71.0,45,Bangalore,Python,Placed,No,False,2023-06-21
+1157,Priya,Kumar,24,Male,MBA,3,6.66,81.0,97,Guntur,Java,Not Placed,Yes,True,2024-01-08
+1159,Rahul,Reddy,21,Female,MECH,1,8.28,,96,Guntur,Python,Placed,No,True,2022-01-18
+1111,Rohan,Verma,25,Female,EEE,1,8.77,55.0,90,Bangalore,SQL,Not Placed,No,True,2022-03-23
+1001,Sai,Reddy,22,Male,ECE,2,8.81,93.0,46,Tirupati,Python,Placed,Yes,True,2022-08-27
+1139,Arjun,Sharma,23,Male,MBA,3,8.73,50.0,78,Visakhapatnam,SQL,Placed,Yes,False,2024-04-26
+1163,Harsha,Verma,22,Male,AI,3,,86.0,39,Bangalore,Data Science,Placed,Yes,True,2024-02-10
+1236,Rohan,Naidu,24,Male,CIVIL,1,7.28,71.0,65,Hyderabad,Cloud,Not Placed,No,False,2022-01-21
+1275,Kavya,Patel,19,Male,DS,1,7.2,77.0,70,Visakhapatnam,Java,Placed,No,True,2022-12-05
+1234,Meera,Kumar,20,Female,MECH,1,5.89,85.0,85,Warangal,Data Science,Not Placed,Yes,False,2022-04-26
+1252,Vihaan,Naidu,22,Female,MECH,4,9.5,58.0,78,Guntur,Data Science,Placed,Yes,False,2022-01-20
+1137,Arjun,Naidu,23,Female,CSE,1,8.44,64.0,39,Bangalore,AI,Placed,Yes,False,2024-03-17
+1010,Ananya,Singh,21,Male,MECH,2,7.93,99.0,35,Warangal,AI,Placed,Yes,False,2024-06-18
+1122,Varun,Naidu,22,Female,ECE,4,6.84,54.0,42,Bangalore,AI,Not Placed,No,False,2022-07-28
+1046,Aarav,Sharma,22,Male,CIVIL,2,6.88,87.0,82,Guntur,SQL,Not Placed,No,False,2022-12-27
+1025,Varun,Gupta,20,Male,DS,2,9.47,51.0,57,Warangal,AI,Placed,No,True,2024-03-17
+1277,Kiran,Patel,19,Male,CIVIL,4,5.91,64.0,62,Warangal,Data Science,Not Placed,No,True,2024-08-31
+1108,Sai,Yadav,23,Male,CSE,3,7.96,91.0,57,Guntur,Cloud,Not Placed,Yes,True,2022-03-06
+1130,Aarav,Rao,23,Male,CIVIL,3,9.09,96.0,38,Guntur,Data Science,Placed,Yes,False,2022-06-24
+1134,Divya,Rao,22,Female,AI,4,9.53,75.0,79,Bangalore,Data Science,Placed,No,True,2022-12-21
+1052,Arjun,Naidu,19,Male,ECE,2,7.98,60.0,35,Tirupati,AI,Not Placed,No,True,2022-08-26
+1280,Varun,Singh,18,Male,ECE,2,9.39,77.0,48,Vijayawada,SQL,Not Placed,Yes,True,2022-01-25
+1028,Sai,Yadav,24,Female,MECH,4,8.23,82.0,49,Tirupati,SQL,Placed,No,True,2023-12-27
+1034,Kavya,Singh,23,Female,CIVIL,4,9.54,97.0,95,Guntur,Data Science,Placed,No,False,2023-10-04
+1099,Kiran,Patel,20,Male,EEE,1,7.78,84.0,39,Warangal,SQL,Placed,No,True,2022-06-16
+1097,Varun,Gupta,22,Female,DS,3,5.87,92.0,53,Warangal,Data Science,Not Placed,Yes,True,2022-11-14
+1232,Varun,Gupta,21,Male,CIVIL,4,9.85,93.0,95,Vijayawada,AI,Not Placed,Yes,False,2024-07-13
+1018,Arjun,Reddy,18,Female,CSE,1,8.13,82.0,55,Hyderabad,SQL,Placed,Yes,True,2023-09-02
+1211,Priya,Gupta,19,Female,ECE,4,6.89,66.0,50,Chennai,Java,Not Placed,Yes,True,2024-05-05
+1153,Arjun,Rao,19,Female,MECH,1,7.91,62.0,41,Visakhapatnam,AI,Placed,Yes,True,2024-04-03
+1117,Varun,Naidu,22,Male,DS,3,7.79,57.0,60,Bangalore,Java,Not Placed,Yes,False,2023-07-22
+1088,Kiran,Gupta,18,Male,ECE,3,9.75,99.0,52,Visakhapatnam,Data Science,Not Placed,Yes,True,2023-05-25
+1202,Rahul,Naidu,19,Male,MECH,4,6.72,54.0,68,Chennai,AI,Not Placed,No,True,2023-05-27
+1068,Ananya,Kumar,24,Female,AI,2,7.22,72.0,72,Visakhapatnam,Python,Not Placed,No,True,2023-08-03
+1131,Akash,Yadav,24,Male,ECE,1,8.08,94.0,49,Vijayawada,Python,Not Placed,No,False,2022-06-05
+1169,Aditya,Singh,21,Male,CIVIL,2,6.12,69.0,69,Guntur,Java,Placed,Yes,False,2022-10-10
+1160,Akash,Naidu,22,Male,CIVIL,2,5.98,56.0,54,Vijayawada,Java,Not Placed,No,False,2024-03-25
+1200,Rahul,Singh,23,Female,AI,3,8.64,96.0,65,Hyderabad,Java,Placed,No,True,2023-04-10
+1150,Ananya,Kumar,23,Female,ECE,3,9.44,,63,Tirupati,Data Science,Not Placed,Yes,True,2023-10-04
+1037,Sneha,Naidu,24,Female,ECE,4,6.49,,97,Hyderabad,AI,Not Placed,No,True,2024-05-10
+1197,Pooja,Naidu,18,Male,MBA,4,6.01,81.0,44,Hyderabad,Data Science,Not Placed,Yes,False,2024-05-31
+1217,Akash,Kumar,18,Female,MECH,4,7.95,81.0,79,Warangal,AI,Not Placed,Yes,True,2022-11-23
+1057,Divya,Naidu,24,Male,MBA,1,6.92,70.0,49,Tirupati,SQL,Placed,No,False,2022-02-25
+1044,Aditya,Naidu,25,Male,MBA,4,7.01,81.0,76,Bangalore,AI,Placed,No,False,2022-12-15
+1251,Priya,Singh,21,Male,CSE,2,6.52,72.0,74,Bangalore,Python,Not Placed,No,True,2022-03-08
+1121,Harsha,Patel,20,Female,CSE,1,5.87,91.0,68,Vijayawada,SQL,Not Placed,Yes,False,2024-06-29
+1156,Divya,Rao,21,Female,MECH,4,5.71,64.0,53,Hyderabad,Data Science,Not Placed,No,True,2022-07-20
+1261,Teja,Gupta,23,Male,DS,4,9.64,57.0,87,Guntur,Python,Placed,No,False,2022-01-13
+1056,Kavya,Naidu,20,Female,MBA,1,7.62,76.0,77,Warangal,Cloud,Placed,Yes,False,2023-02-26
+1282,Pooja,Gupta,23,Male,CIVIL,1,7.91,91.0,43,Hyderabad,Cloud,Placed,No,True,2022-10-24
+1073,Kavya,Naidu,24,Male,DS,1,9.76,69.0,98,Chennai,Python,Placed,Yes,False,2023-04-10
+1276,Kavya,Patel,18,Male,MECH,1,8.98,90.0,73,Guntur,SQL,Not Placed,Yes,False,2023-06-23
+1187,Vihaan,Yadav,23,Female,DS,3,9.91,68.0,72,Visakhapatnam,SQL,Placed,Yes,False,2024-07-29
+1255,Meera,Sharma,22,Male,CIVIL,1,7.8,89.0,50,Visakhapatnam,Python,Placed,No,True,2023-09-16
+1005,Sneha,Patel,23,Female,ECE,3,8.66,93.0,44,Bangalore,SQL,Placed,Yes,False,2023-01-24
+1164,Pooja,Sharma,22,Male,ECE,4,8.55,84.0,77,Tirupati,Cloud,Placed,Yes,False,2022-02-24
+1145,Kavya,Naidu,18,Female,EEE,1,8.86,87.0,44,Hyderabad,AI,Not Placed,Yes,True,2024-08-15
+1154,Harsha,Singh,21,Female,ECE,3,6.86,50.0,62,Vijayawada,Cloud,Placed,No,True,2023-12-14
+1104,Rahul,Patel,18,Female,MBA,2,8.91,80.0,92,Hyderabad,Python,Placed,No,True,2024-05-05
+1133,Varun,Rao,23,Female,MBA,2,9.81,67.0,73,Vijayawada,Data Science,Not Placed,Yes,False,2022-11-21
+1047,Kavya,Naidu,22,Female,ECE,1,8.75,70.0,50,Bangalore,Java,Placed,No,False,2024-01-12
+1067,Nikhil,Verma,22,Male,MBA,3,8.55,60.0,44,Guntur,Data Science,Not Placed,No,False,2023-04-13
+1257,Aarav,Sharma,19,Female,DS,1,9.01,54.0,47,Visakhapatnam,Cloud,Placed,No,False,2022-09-28
+1015,Meera,Verma,18,Male,CSE,4,8.78,56.0,66,Vijayawada,Java,Not Placed,Yes,False,2022-07-07
+1038,Kavya,Patel,18,Female,CSE,1,8.39,58.0,94,Bangalore,Python,Not Placed,No,False,2022-08-05
+1212,Priya,Patel,19,Male,MECH,4,7.81,93.0,73,Visakhapatnam,Java,Placed,No,False,2023-07-24
+1011,Ananya,Kumar,18,Male,AI,1,8.79,54.0,51,Bangalore,Cloud,Not Placed,Yes,False,2023-06-25
+1245,Priya,Patel,18,Female,EEE,3,9.58,75.0,84,,SQL,Placed,No,True,2023-12-04
+1162,Pooja,Singh,25,Male,CSE,2,,77.0,77,Chennai,SQL,Placed,Yes,True,2024-07-11
+1035,Kiran,Naidu,25,Male,EEE,2,6.72,70.0,45,,Java,Placed,No,True,2023-12-25
+1220,Divya,Singh,22,Male,MBA,1,5.91,64.0,63,Hyderabad,SQL,Not Placed,Yes,False,2024-07-28
+1221,Teja,Kumar,20,Female,DS,3,5.77,59.0,53,Chennai,SQL,Not Placed,Yes,False,2023-12-23
+1147,Varun,Patel,23,Male,DS,4,7.88,96.0,63,Hyderabad,Python,Not Placed,No,False,2023-06-29
+1286,Varun,Sharma,22,Male,EEE,1,6.39,87.0,97,Warangal,Data Science,Placed,Yes,True,2022-10-19
+1012,Teja,Gupta,21,Male,EEE,4,9.98,91.0,82,Guntur,SQL,Not Placed,Yes,True,2022-08-19
+1063,Akash,Yadav,23,Male,MBA,1,7.87,79.0,36,Bangalore,AI,Placed,Yes,False,2024-03-11
+1006,Nikhil,Singh,21,Female,CSE,2,9.2,70.0,86,Visakhapatnam,Python,Placed,No,True,2023-11-03
+1281,Kavya,Rao,18,Male,AI,1,6.3,66.0,44,Vijayawada,Data Science,Not Placed,No,False,2023-10-08
+1214,Harsha,Naidu,19,Male,AI,2,9.56,78.0,51,Chennai,Data Science,Placed,Yes,False,2022-02-21
+1273,Vihaan,Naidu,21,Male,MECH,4,5.96,93.0,63,Tirupati,Java,Not Placed,Yes,False,2023-02-01
+1042,Ananya,Yadav,19,Male,MECH,4,8.48,54.0,99,Warangal,Python,Not Placed,No,True,2023-03-20
+1152,Varun,Verma,21,Male,EEE,2,9.13,53.0,87,Tirupati,SQL,Placed,No,True,2022-09-19
+1054,Rahul,Sharma,18,Male,EEE,3,7.48,79.0,73,Tirupati,Data Science,Not Placed,No,True,2023-09-05
+1224,Divya,Patel,23,Male,ECE,3,9.92,60.0,46,Warangal,AI,Placed,No,True,2022-09-13
+1123,Priya,Yadav,20,Female,MECH,3,9.89,58.0,82,Chennai,Data Science,Placed,No,True,2022-10-01
+1173,Kavya,Kumar,25,Female,AI,4,8.53,58.0,73,Vijayawada,Data Science,Placed,No,False,2022-03-17
+1124,Kavya,Kumar,20,Male,CSE,3,9.75,89.0,88,Vijayawada,Java,Not Placed,No,True,2024-02-21
+1030,Pooja,Naidu,20,Male,CIVIL,4,8.55,61.0,73,Tirupati,SQL,Placed,No,False,2022-08-04
+1279,Nikhil,Singh,22,Male,MECH,4,7.69,68.0,59,Warangal,SQL,Placed,Yes,True,2024-09-21
+1085,Priya,Rao,18,Male,DS,4,5.81,97.0,38,Chennai,Cloud,Placed,No,False,2023-04-10
+1260,Kavya,Naidu,24,Female,CIVIL,2,6.01,94.0,42,Bangalore,Python,Not Placed,No,False,2022-07-05
+1107,Sneha,Sharma,18,Female,MBA,1,8.36,73.0,67,Hyderabad,Data Science,Placed,No,True,2024-01-21
+1256,Arjun,Naidu,21,Female,CIVIL,3,6.22,85.0,98,Vijayawada,Cloud,Not Placed,No,True,2022-01-03
+1170,Meera,Naidu,25,Male,MECH,3,9.75,,98,Vijayawada,AI,Placed,Yes,False,2022-01-07
+1031,Meera,Yadav,23,Female,MBA,4,8.54,82.0,95,Bangalore,Cloud,Placed,No,False,2022-04-06
+1210,Pooja,Rao,23,Female,EEE,2,5.84,62.0,52,Chennai,Java,Placed,Yes,False,2023-04-23
+1238,Meera,Yadav,19,Male,MBA,2,9.61,76.0,97,Warangal,Python,Placed,Yes,False,2023-12-28
+1254,Sai,Reddy,18,Male,CIVIL,4,7.21,85.0,67,Guntur,Cloud,Placed,Yes,True,2022-11-05
+1093,Divya,Verma,25,Female,MECH,2,7.48,80.0,91,Visakhapatnam,Data Science,Placed,No,True,2022-11-14
+1041,Nikhil,Rao,20,Male,DS,3,5.99,51.0,74,Tirupati,AI,Placed,Yes,True,2022-04-15
+1048,Harsha,Singh,22,Male,ECE,3,6.52,61.0,73,Hyderabad,Cloud,Placed,No,True,2024-09-24
+1039,Kavya,Rao,23,Female,EEE,4,6.64,55.0,95,Hyderabad,Cloud,Placed,No,True,2023-10-28
+1055,Vihaan,Gupta,23,Female,CSE,1,6.53,93.0,37,Visakhapatnam,SQL,Placed,Yes,False,2023-06-16
+1123,Priya,Yadav,20,Female,MECH,3,9.89,58.0,82,Chennai,Data Science,Placed,No,True,2022-10-01
+1165,Sai,Gupta,21,Male,MECH,4,9.86,70.0,38,Visakhapatnam,AI,Not Placed,Yes,False,2023-07-21
+1132,Meera,Kumar,24,Female,CSE,2,7.83,85.0,76,Guntur,SQL,Not Placed,No,True,2023-04-16
+1020,Rahul,Naidu,25,Female,AI,1,7.56,86.0,47,Chennai,SQL,Placed,No,True,2024-08-13
+1059,Teja,Kumar,20,Female,CSE,4,5.92,57.0,94,Chennai,Cloud,Placed,No,False,2023-06-06
+1043,Sneha,Verma,20,Female,DS,3,8.27,84.0,96,Guntur,AI,Not Placed,No,True,2024-04-30
+1289,Varun,Sharma,20,Male,EEE,2,9.51,62.0,68,Chennai,Cloud,Placed,Yes,True,2024-04-12
+1036,Arjun,Sharma,24,Female,MECH,4,7.37,63.0,88,Tirupati,SQL,Placed,No,False,2022-01-07
+1226,Pooja,Sharma,25,Male,DS,4,5.83,52.0,72,Hyderabad,Data Science,Not Placed,Yes,True,2022-12-17
+1263,Rohan,Singh,25,Female,DS,1,8.88,70.0,65,Warangal,Data Science,Placed,Yes,False,2023-02-17
+1002,Akash,Yadav,18,Male,CIVIL,2,7.52,67.0,35,Bangalore,Cloud,Not Placed,No,False,2022-06-09
+1155,Teja,Kumar,24,Male,MECH,3,7.21,84.0,80,Visakhapatnam,Data Science,Not Placed,No,False,2022-04-11
+1228,Sai,Rao,21,Male,CIVIL,3,8.47,69.0,65,Chennai,Python,Not Placed,No,True,2022-02-25
+1247,Sneha,Kumar,22,Female,MECH,3,6.67,68.0,94,Chennai,AI,Placed,Yes,False,2024-06-29
+1288,Aarav,Rao,21,Male,CIVIL,3,9.28,58.0,77,Guntur,AI,Not Placed,No,False,2023-05-14
+1177,Divya,Rao,25,Male,MBA,4,6.94,69.0,40,Chennai,Python,Not Placed,Yes,True,2024-08-10
+1181,Ananya,Yadav,19,Male,MECH,1,6.57,57.0,58,Warangal,Cloud,Placed,No,False,2023-09-03
+1208,Akash,Kumar,24,Female,CSE,2,8.7,55.0,40,,SQL,Not Placed,No,False,2024-09-24
+1115,Nikhil,Kumar,19,Male,DS,4,7.83,85.0,50,Visakhapatnam,Data Science,Not Placed,Yes,False,2023-12-12
+1271,Teja,Naidu,23,Male,DS,3,8.7,98.0,80,Guntur,SQL,Not Placed,No,False,2024-04-07
+1129,Teja,Singh,20,Female,MECH,2,7.27,89.0,73,Warangal,SQL,Not Placed,No,False,2024-04-15
+1040,Aditya,Reddy,18,Male,ECE,1,8.3,65.0,51,Guntur,Cloud,Placed,Yes,False,2023-12-18
+1188,Vihaan,Naidu,20,Male,ECE,2,8.7,65.0,85,Guntur,Java,Not Placed,No,False,2023-04-08
+1194,Pooja,Sharma,19,Male,MECH,3,,58.0,83,Bangalore,Cloud,Placed,Yes,True,2023-09-17
+1193,Divya,Sharma,20,Male,MBA,1,5.54,71.0,50,Tirupati,Cloud,Placed,No,True,2022-08-23
+1090,Meera,Yadav,24,Female,EEE,1,7.32,70.0,56,Guntur,Cloud,Not Placed,Yes,False,2024-05-14
+1135,Kavya,Naidu,25,Male,ECE,3,9.7,94.0,69,Bangalore,Python,Placed,Yes,True,2023-11-17
+1141,Kavya,Naidu,23,Female,CSE,3,8.44,94.0,65,Hyderabad,Cloud,Placed,No,False,2022-06-13
+1267,Sai,Reddy,20,Female,DS,4,5.98,89.0,60,Vijayawada,Python,Not Placed,Yes,False,2024-04-24
+1053,Ananya,Naidu,25,Male,ECE,3,9.05,90.0,60,Tirupati,Python,Placed,Yes,False,2024-04-26
+1166,Pooja,Gupta,20,Female,AI,3,9.09,95.0,44,Chennai,Data Science,Placed,No,True,2024-01-28
+1047,Kavya,Naidu,22,Female,ECE,1,8.75,70.0,50,Bangalore,Java,Placed,No,False,2024-01-12
+1024,Sneha,Yadav,20,Female,DS,1,6.89,100.0,40,Warangal,Java,Placed,Yes,False,2024-03-09
+1233,Vihaan,Singh,20,Male,MBA,2,9.77,60.0,62,Vijayawada,Java,Placed,No,True,2023-12-01
+1241,Varun,Rao,23,Male,EEE,1,6.78,74.0,41,Bangalore,SQL,Placed,Yes,True,2023-11-25
+1199,Ananya,Singh,24,Female,CIVIL,1,8.38,84.0,54,Visakhapatnam,Python,Not Placed,Yes,True,2024-09-24
+1185,Varun,Rao,18,Female,ECE,4,5.96,91.0,66,Visakhapatnam,Python,Not Placed,No,False,2024-06-01
+1266,Teja,Yadav,25,Female,MBA,1,5.94,92.0,63,Hyderabad,Data Science,Not Placed,No,False,2023-12-20
+1106,Divya,Yadav,18,Male,DS,3,7.43,89.0,80,Vijayawada,SQL,Not Placed,Yes,True,2023-06-21
+1022,Sai,Sharma,20,Female,EEE,2,,63.0,68,Guntur,Data Science,Placed,Yes,False,2024-04-29
+1120,Priya,Kumar,23,Female,AI,3,6.38,85.0,70,Bangalore,Cloud,Not Placed,Yes,True,2023-08-30
+1190,Varun,Gupta,21,Female,ECE,4,6.71,68.0,78,Bangalore,SQL,Not Placed,No,True,2022-02-17
+1136,Akash,Kumar,21,Male,AI,4,6.99,80.0,47,Bangalore,Python,Placed,No,False,2023-05-04
+1033,Kiran,Patel,18,Male,CIVIL,2,6.29,94.0,94,Hyderabad,SQL,Placed,Yes,False,2022-05-17
+1119,Aditya,Verma,25,Female,DS,2,8.96,,90,Hyderabad,Python,Placed,No,True,2022-06-15
+1250,Aditya,Patel,24,Female,CIVIL,4,9.84,74.0,35,Hyderabad,SQL,Placed,No,True,2024-07-02
+1113,Vihaan,Sharma,24,Female,DS,1,6.14,88.0,91,Hyderabad,Java,Placed,Yes,False,2023-01-06
+1021,Sneha,Sharma,21,Female,EEE,2,7.47,84.0,73,Hyderabad,Cloud,Not Placed,Yes,True,2022-09-28
+1184,Rohan,Sharma,18,Male,EEE,1,6.74,84.0,71,Bangalore,AI,Not Placed,Yes,True,2022-10-02
+1248,Arjun,Singh,19,Female,EEE,4,5.74,59.0,52,Vijayawada,Data Science,Not Placed,No,True,2022-11-20
+1075,Kiran,Rao,19,Female,MECH,1,7.29,62.0,50,Guntur,Python,Placed,Yes,True,2024-03-16
+1204,Vihaan,Verma,23,Female,DS,2,9.69,52.0,88,Vijayawada,Data Science,Placed,No,False,2022-10-05
+1290,Harsha,Yadav,24,Male,CSE,3,7.95,84.0,95,,Data Science,Not Placed,Yes,False,2022-05-18
+1092,Akash,Kumar,23,Female,DS,2,5.96,66.0,60,Bangalore,SQL,Placed,Yes,True,2024-09-01
+1082,Divya,Sharma,19,Male,AI,4,5.93,97.0,82,Bangalore,SQL,Placed,No,True,2023-02-25
+1229,Sneha,Reddy,24,Male,EEE,4,6.4,51.0,61,Bangalore,Cloud,Not Placed,Yes,False,2024-05-14
+1072,Sai,Verma,23,Female,CIVIL,3,5.99,,95,Hyderabad,SQL,Not Placed,Yes,True,2023-10-13
+1264,Kiran,Sharma,25,Female,MBA,1,9.35,78.0,75,Chennai,AI,Placed,Yes,False,2023-02-27
